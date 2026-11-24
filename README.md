@@ -99,3 +99,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: preview-maker-ai, youtube, tool, ctr, content, design, ai, thumbnail, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ai thumbnail youtube tool tool ctr content design thumbnail-studio-ai preview-maker-ai ai-thumbnail-maker windows portable prebuilt x64 free download
+related: ai, thumbnail, youtube, tool, tool, ctr, content, design
