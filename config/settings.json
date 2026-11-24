@@ -1,0 +1,23 @@
+{
+  "module": "preview-maker-ai",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "extract": {
+      "enabled": true
+    },
+    "compose": {
+      "enabled": true
+    },
+    "text": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
